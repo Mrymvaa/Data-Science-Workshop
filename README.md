@@ -1,1 +1,1 @@
-# Supermarket-Sales-Workshop
+# Data Science - Workshop
